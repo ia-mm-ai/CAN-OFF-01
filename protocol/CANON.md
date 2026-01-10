@@ -1,4 +1,4 @@
-# CANON - The Presence Stack Constitutional Specification (v1.0)
+# CANON - The Presence Stack Constitutional Specification (1 0)
 
 Status: **FROZEN**  
 Mutation Rule: **EVOLVE ONLY**  
@@ -55,9 +55,9 @@ No step may absorb another.
 
 **PROPORTION** is the system envelope.
 
-- Not part of the flow.  
-- Not external.  
-- Continuously governs admissibility of motion.
+Not part of the flow.  
+Not external.  
+Continuously governs admissibility of motion.
 
 If PROPORTION = BLOCK or HALT, nothing proceeds.
 
@@ -65,33 +65,33 @@ If PROPORTION = BLOCK or HALT, nothing proceeds.
 
 ## IV. Protocol Set (Closed)
 
-Pre-cognitive:
-- BPL
+**Pre-cognitive:**  
+BPL
 
-Temporal:
-- EVENT
+**Temporal:**  
+EVENT
 
-Live presence:
-- BNK
-- ZIVai
-- 22
-- KAPIA
+**Live presence:**  
+BNK  
+ZIVai  
+22  
+KAPIA
 
-Truth & history:
-- PoP
-- SPIRAL
+**Truth & history:**  
+PoP  
+SPIRAL
 
-Governance & execution boundary:
-- THIRD SPACE
-- UPAD
-- ISPAD
-- IAM.MAI
+**Governance & execution boundary:**  
+THIRD SPACE  
+UPAD  
+ISPAD  
+IAM.MAI
 
-System envelope:
-- PROPORTION
+**System envelope:**  
+PROPORTION
 
-Integrity kernel (L0.5):
-- KENTRA
+**Integrity kernel (L0.5):**  
+KENTRA
 
 No protocol may claim authority outside its declared scope.
 
@@ -99,9 +99,9 @@ No protocol may claim authority outside its declared scope.
 
 ## V. Authority Separation (Invariant)
 
-- Agents reason.  
-- Protocols constrain.  
-- Execution systems act.
+Agents reason.  
+Protocols constrain.  
+Execution systems act.
 
 No layer may collapse into another.  
 No protocol is an agent.  
@@ -111,19 +111,19 @@ No agent is law.
 
 ## VI. Mutation Rule (EVOLVE)
 
-- No rewrites.
-- No retroactive correction.
-- All changes are additive, lineage-preserving.
+No rewrites.  
+No retroactive correction.  
+All changes are additive, lineage-preserving.
 
 ---
 
 ## VII. Final Lock (Invariant)
 
-- Architecture without traceability → abstraction theater  
-- Traceability without architecture → local coherence, global collapse
+Architecture without traceability → abstraction theater  
+Traceability without architecture → local coherence, global collapse
 
-The stack must preserve **both**.
+The stack must preserve both.
 
 ---
 
-Once declared, CANON stands.
+Once declared, **CANON stands**.
