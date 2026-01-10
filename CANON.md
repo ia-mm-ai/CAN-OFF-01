@@ -1,4 +1,4 @@
-# CANON — The Presence Stack Constitutional Specification (v1.0)
+# CANON - The Presence Stack Constitutional Specification (v1.0)
 
 Status: **FROZEN**  
 Mutation Rule: **EVOLVE ONLY**  
@@ -127,5 +127,3 @@ The stack must preserve both.
 ---
 
 Once declared, **CANON stands**.
-
-**END — CANON.md**
