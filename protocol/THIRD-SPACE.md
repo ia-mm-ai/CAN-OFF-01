@@ -1,4 +1,4 @@
-# THIRD SPACE — Decision Trace Protocol
+# THIRD SPACE - Decision Trace Protocol
 
 Status: CANONICAL  
 Class: Governance / Decision Trace  
