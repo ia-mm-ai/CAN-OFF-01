@@ -29,7 +29,7 @@ It does not override any protocol. It only links and locates.
 
 - **EVENT — Temporal Container Protocol**  
   Defines when reality is admissible (0 / ⊙ / 1).  
-  - File: `EVENT.md` *(if EVENT is currently embedded elsewhere, extract it here when ready)*
+  - File: `EVENT.md` 
 
 ---
 
