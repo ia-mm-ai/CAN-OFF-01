@@ -1,4 +1,4 @@
-# CANON - The Presence Stack Constitutional Specification (v1.0)
+# CANON - The Presence Stack Constitutional Specification (0 1)
 
 Status: **FROZEN**  
 Mutation Rule: **EVOLVE ONLY**  
