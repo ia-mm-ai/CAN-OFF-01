@@ -1,17 +1,17 @@
 # EVENT - Temporal Container Protocol
 
-Status: CANONICAL  
-Class: Reality Container  
-Authority: DERIVED (via CANON)  
-Execution Power: LIMITED (phase transitions only)  
-Identity Power: NONE  
-Mutation Rule: Additive-only (via EVOLVE + CANON)
+Status: **CANONICAL**  
+Class: **Reality Container**  
+Authority: **DERIVED (via CANON)**  
+Execution Power: **LIMITED (phase transitions only)**  
+Identity Power: **NONE**  
+Mutation Rule: **Additive-only (via EVOLVE + CANON)**
 
 ---
 
 ## 0. Canonical Statement
 
-EVENT defines the temporal container in which reality may occur.
+EVENT defines the **temporal container** in which reality may occur.
 
 An EVENT admits presence, regulation, narration, and truth **only while it is live**, and dissolves all non-final state at closure.
 
@@ -37,9 +37,11 @@ EVENT answers one question only:
 ## 2. Event States (Closed Set)
 
 EVENT state MUST be exactly one of the following:
-0   — NOT LIVE (potential only)
-⊙   — LIVE (reality admissible)
-1   — CLOSED (reality finalized)
+
+- **0** — NOT LIVE (potential only)  
+- **⊙** — LIVE (reality admissible)  
+- **1** — CLOSED (reality finalized)
+
 No other states are valid.
 
 ---
@@ -47,6 +49,7 @@ No other states are valid.
 ## 3. State Semantics (LOCKED)
 
 ### EVENT = 0 (Not Live)
+
 - Reality has not started.
 - Presence is not admissible.
 - Kernels MUST NOT exist.
@@ -57,17 +60,19 @@ No other states are valid.
 ---
 
 ### EVENT = ⊙ (Live)
+
 - Reality is admissible.
 - Presence MAY exist.
 - Kernels MAY exist (event-scoped only).
 - ZIVai MAY operate.
-- 22 MAY narrate aggregate state.
+- **22** MAY narrate aggregate state.
 - Thresholds MAY be crossed (KAPIA).
 - Truth is NOT yet final.
 
 ---
 
 ### EVENT = 1 (Closed)
+
 - Reality is no longer admissible.
 - Presence MUST NOT be added.
 - All kernels MUST dissolve.
@@ -76,67 +81,22 @@ No other states are valid.
 - Truth MAY be finalized.
 - Settlement MAY become eligible.
 
-EVENT = 1 is irreversible.
+EVENT = 1 is **irreversible**.
 
 ---
 
 ## 4. Transitions (Irreversible)
 
-EVENT transitions are irreversible and MUST be legitimized.
+Allowed transitions (closed set):
 
-Allowed transitions:
-No other states are valid.
-
----
-
-## 3. State Semantics (LOCKED)
-
-### EVENT = 0 (Not Live)
-- Reality has not started.
-- Presence is not admissible.
-- Kernels MUST NOT exist.
-- ZIVai MUST NOT operate.
-- Narration MUST be silent.
-- Economic activity MAY occur, but does not imply reality.
-
----
-
-### EVENT = ⊙ (Live)
-- Reality is admissible.
-- Presence MAY exist.
-- Kernels MAY exist (event-scoped only).
-- ZIVai MAY operate.
-- 22 MAY narrate aggregate state.
-- Thresholds MAY be crossed (KAPIA).
-- Truth is NOT yet final.
-
----
-
-### EVENT = 1 (Closed)
-- Reality is no longer admissible.
-- Presence MUST NOT be added.
-- All kernels MUST dissolve.
-- ZIVai MUST stop.
-- Narration MUST stop.
-- Truth MAY be finalized.
-- Settlement MAY become eligible.
-
-EVENT = 1 is irreversible.
-
----
-
-## 4. Transitions (Irreversible)
-
-EVENT transitions are irreversible and MUST be legitimized.
-
-Allowed transitions:
-0 → ⊙   (EVENT-LIVE)
-⊙ → 1   (EVENT-CLOSE)
+- **0 → ⊙** — EVENT-LIVE  
+- **⊙ → 1** — EVENT-CLOSE
 
 Both transitions:
-- MUST be human-invoked,
-- MUST be finalized via IAM.MAI,
-- MUST be recorded in SPIRAL.
+
+- MUST be **human-invoked**,  
+- MUST be **legitimized via IAM.MAI**,  
+- MUST be **recorded in SPIRAL**.
 
 No other transitions are valid.
 
@@ -145,47 +105,48 @@ No other transitions are valid.
 ## 5. Authority & Control
 
 EVENT:
+
 - does NOT decide outcomes,
 - does NOT measure individuals,
 - does NOT infer identity,
 - does NOT execute economics,
 - does NOT create truth on its own.
 
-EVENT controls **only temporal admissibility**.
+EVENT controls **temporal admissibility only**.
 
 ---
 
 ## 6. Relationship to Other Protocols
 
-- **BPL**: EVENT does not bind interpretation.
-- **IAM.MAI**: EVENT transitions require legitimacy.
-- **BNK**: Kernels exist only while EVENT = ⊙.
-- **ZIVai**: Operates only while EVENT = ⊙.
-- **22**: Narrates only while EVENT = ⊙.
-- **KAPIA**: Thresholds only admissible while EVENT = ⊙.
-- **PoP**: Truth finalization only after EVENT = 1.
-- **SPIRAL**: Records EVENT transitions.
-- **THIRD SPACE**: May reference EVENT state, but cannot alter it.
+- **BPL:** EVENT does not bind interpretation.
+- **IAM.MAI:** EVENT transitions require legitimacy.
+- **BNK:** Kernels exist only while EVENT = ⊙.
+- **ZIVai:** Operates only while EVENT = ⊙.
+- **22:** Narrates only while EVENT = ⊙.
+- **KAPIA:** Thresholds admissible only while EVENT = ⊙.
+- **PoP:** Truth finalization only after EVENT = 1.
+- **SPIRAL:** Records EVENT transitions.
+- **THIRD SPACE:** May reference EVENT state; cannot alter it.
 
 ---
 
 ## 7. Failure Modes (EXPLICIT)
 
-The following render an implementation NON-COMPLIANT:
+The following are **NON-COMPLIANT**:
 
-- admitting presence while EVENT ≠ ⊙
-- allowing kernels to persist after EVENT = 1
-- narrating state outside EVENT = ⊙
-- finalizing truth before EVENT = 1
-- reopening EVENT after closure
-- creating multiple closures
+- admitting presence while EVENT ≠ ⊙,
+- allowing kernels to persist after EVENT = 1,
+- narrating state outside EVENT = ⊙,
+- finalizing truth before EVENT = 1,
+- reopening EVENT after closure,
+- creating multiple closures.
 
 ---
 
 ## 8. Canonical One-Line Definition
 
-EVENT is the temporal container that admits reality exactly once and dissolves everything else when it ends.
+**EVENT is the temporal container that admits reality exactly once and dissolves everything else when it ends.**
 
 ---
 
-END — EVENT.md
+**END — EVENT.md**
