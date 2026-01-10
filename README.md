@@ -5,6 +5,17 @@ Mutation Rule: **EVOLVE ONLY**
 Deletion: **FORBIDDEN**  
 Authority: **BOUND BY CANON**
 
+## Canonical Notice
+
+This repository maintains two CANON files for visibility:
+
+- `/CANON.md` (root) — immediate entry-point
+- `/protocol/CANON.md` — authoritative location
+
+Both files are **verbatim mirrors**.  
+If a discrepancy ever appears, **`/protocol/CANON.md` is the source of truth** and the root file must be updated to match.
+
+
 This repository contains the canonical protocol stack for **The Presence**: a governance architecture that preserves continuity under change by enforcing admissibility, containment (HOLD), explicit irreversibility, and append-only lineage.
 
 **Final Lock (Invariant)**
