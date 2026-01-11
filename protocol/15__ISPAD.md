@@ -1,14 +1,12 @@
 ISPAD - Irreversible & Safety-Scoped Action Dispatch Protocol
 
-Status: CANONICAL
-Class: Execution Legitimacy + Audit
-Authority: BOUND (via PROPORTION + IAM.MAI where applicable)
-Execution Power: LIMITED (authorize execution only)
-Truth Power: NONE
-Identity Power: NONE
-Mutation Rule: Additive-only (via EVOLVE + CANON)
+Protocol-ID: P.15.ISPAD  
+Filename: 15__ISPAD.md  
+Status: CANONICAL  
+Class: Execution Legitimacy + Audit  
+Mutation: EVOLVE ONLY
 
-⸻
+---
 
 0. Canonical Statement
 
