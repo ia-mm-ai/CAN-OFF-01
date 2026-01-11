@@ -44,7 +44,7 @@ No protocol listed here may claim power outside its declared scope.
 
 ## II. Pre-Cognitive Admission
 
-### BPL — Binding Precondition Layer
+### BPL - Binding Precondition Layer
 **Class:** Admissibility Gate  
 **Role:** Determines whether reasoning may begin.
 
@@ -54,7 +54,7 @@ No protocol listed here may claim power outside its declared scope.
 
 ## III. Temporal & Structural Reality
 
-### EVENT — Temporal Container
+### EVENT - Temporal Container
 **Class:** Reality Container  
 **Role:** Defines when reality may exist.
 
@@ -82,7 +82,7 @@ It is a **canonical composite state** arising from EVENT + MOTION.
 
 ## IV. Live Presence & Capacity
 
-### BNK — Bracelet–NFT–Kernel Protocol
+### BNK - Bracelet–NFT–Kernel Protocol
 **Class:** Presence Custody (Event-Scoped)  
 **Role:** Hosts presence ephemerally during EVENT ⊙.
 
@@ -90,7 +90,7 @@ It is a **canonical composite state** arising from EVENT + MOTION.
 
 ---
 
-### ZIVai — Field Capacity Regulation
+### ZIVai - Field Capacity Regulation
 **Class:** Capacity & Saturation Signal  
 **Role:** Signals how much additional change a live field can absorb.
 
@@ -103,7 +103,7 @@ ZIVai:
 
 ---
 
-### 22 — Field Narration
+### 22 - Field Narration
 **Class:** Aggregate Narration Layer  
 **Role:** Makes live state legible without power.
 
@@ -113,7 +113,7 @@ ZIVai:
 
 ## V. Evidence & Truth
 
-### KAPIA — Threshold Crossing Evidence
+### KAPIA - Threshold Crossing Evidence
 **Class:** Irreversible Threshold Evidence  
 **Role:** Records that a boundary was crossed.
 
@@ -121,7 +121,7 @@ ZIVai:
 
 ---
 
-### PoP — Proof of Presence
+### PoP - Proof of Presence
 **Class:** Truth Instantiation  
 **Role:** Converts presence into immutable truth after EVENT closure.
 
@@ -129,7 +129,7 @@ ZIVai:
 
 ---
 
-### SPIRAL — Immutable History
+### SPIRAL - Immutable History
 **Class:** Append-Only Truth Ledger  
 **Role:** Records finalized truth and transitions.
 
@@ -147,7 +147,7 @@ ZIVai:
 
 ---
 
-### IAM.MAI — Irreversibility Legitimacy
+### IAM.MAI - Irreversibility Legitimacy
 **Class:** Finality Gate  
 **Role:** Legitimize irreversible transitions only.
 
@@ -162,7 +162,7 @@ IAM.MAI governs:
 
 ---
 
-### UPAD — Unified Action Dispatch
+### UPAD - Unified Action Dispatch
 **Class:** Decision → Execution Request Boundary  
 **Role:** Creates non-binding execution requests.
 
@@ -170,7 +170,7 @@ IAM.MAI governs:
 
 ---
 
-### ISPAD — Irreversible & Safety-Scoped Dispatch
+### ISPAD - Irreversible & Safety-Scoped Dispatch
 **Class:** Execution Legitimacy & Audit  
 **Role:** Authorizes and audits external execution.
 
