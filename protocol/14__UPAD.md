@@ -1,14 +1,12 @@
 UPAD - Unified Action Dispatch Protocol
 
-Status: CANONICAL
-Class: Decision → Execution Request Boundary
-Authority: DERIVED (via THIRD SPACE + PROPORTION)
-Execution Power: NONE
-Truth Power: NONE
-Identity Power: NONE
-Mutation Rule: Additive-only (via EVOLVE + CANON)
+SProtocol-ID: P.14.UPAD  
+Filename: 14__UPAD.md  
+Status: CANONICAL  
+Class: Decision → Execution Request Boundary  
+Mutation: EVOLVE ONLY
 
-⸻
+---
 
 0. Canonical Statement
 
