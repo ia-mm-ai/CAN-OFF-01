@@ -1,14 +1,12 @@
 PROPORTION - Continuity Constraint Protocol
 
-Status: CANONICAL
-Class: System Envelope / Continuity Constraint
-Authority: BOUND (via CANON)
-Execution Power: LIMITED (block / halt only)
-Identity Power: NONE
-Truth Power: NONE
-Mutation Rule: Additive-only (via EVOLVE + CANON)
+Protocol-ID: P.04.PROPORTION  
+Filename: 04__PROPORTION.md  
+Status: CANONICAL  
+Class: System Envelope / Continuity Constraint  
+Mutation: EVOLVE ONLY
 
-⸻
+---
 
 0. Canonical Statement
 
