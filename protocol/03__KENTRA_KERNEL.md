@@ -1,12 +1,10 @@
 # KENTRA KERNEL - Integrity & Continuity Kernel
 
-Status: **CANONICAL**  
-Class: **Foundational Integrity Kernel (L0.5)**  
-Authority: **BOUND (via CANON)**  
-Execution Power: **NONE**  
-Truth Power: **NONE (conditions truth; does not create it)**  
-Identity Power: **NONE**  
-Mutation Rule: **Additive-only (via EVOLVE + CANON)**
+Protocol-ID: P.03.KENTRA_KERNEL  
+Filename: 03__KENTRA_KERNEL.md  
+Status: CANONICAL  
+Class: Integrity Kernel (L0.5)  
+Mutation: EVOLVE ONLY
 
 ---
 
