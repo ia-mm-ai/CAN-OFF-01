@@ -1,11 +1,10 @@
 # ZIVai - Field Capacity Regulation Protocol
 
+Protocol-ID: P.08.ZIVAI  
+Filename: 08__ZIVAI.md  
 Status: CANONICAL  
 Class: Field Capacity & Saturation Regulator  
-Authority: DERIVED (via EVENT + CANON)  
-Execution Power: NONE  
-Identity Power: NONE  
-Mutation Rule: Additive-only (via EVOLVE + CANON)
+Mutation: EVOLVE ONLY
 
 ---
 
