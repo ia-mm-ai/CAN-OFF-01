@@ -1,8 +1,12 @@
 # Protocol Index - The Presence Stack
 
+Protocol-ID: P.01.INDEX  
+Filename: 01__INDEX.md  
 Status: CANONICAL  
-Authority: BOUND BY CANON  
-Mutation Rule: Additive-only (via EVOLVE + CANON)
+Mutation: EVOLVE ONLY  
+Authority: BOUND BY CANON
+
+---
 
 This document is the **authoritative index and glossary** for all protocols in The Presence Stack.
 
