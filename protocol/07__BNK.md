@@ -1,11 +1,10 @@
 # BNK - Bracelet–NFT–Kernel Protocol
 
+Protocol-ID: P.07.BNK  
+Filename: 07__BNK.md  
 Status: CANONICAL  
 Class: Presence Custody (Event-Scoped)  
-Authority: DERIVED (via EVENT + IAM.MAI)  
-Execution Power: NONE  
-Identity Power: NONE  
-Mutation Rule: Additive-only (via EVOLVE + CANON)
+Mutation: EVOLVE ONLY
 
 ---
 
