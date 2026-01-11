@@ -1,11 +1,10 @@
 # THIRD SPACE - Decision Trace Protocol
 
+Protocol-ID: P.13.THIRD_SPACE  
+Filename: 13__THIRD_SPACE.md  
 Status: CANONICAL  
 Class: Governance / Decision Trace  
-Authority: NONE  
-Execution Power: NONE  
-Truth Power: NONE  
-Mutation Rule: Additive-only (via EVOLVE + CANON)
+Mutation: EVOLVE ONLY
 
 ---
 
