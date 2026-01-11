@@ -1,11 +1,11 @@
 # BPL - Binding Precondition Layer
 
+Protocol-ID: P.02.BPL  
+Filename: 02__BPL.md  
 Status: CANONICAL  
 Class: Interpretive Precondition  
-Authority: NONE  
-Execution Power: NONE  
-Truth Power: NONE  
-Mutation Rule: Additive-only (via EVOLVE + CANON)
+Mutation: EVOLVE ONLY
+
 
 ---
 
