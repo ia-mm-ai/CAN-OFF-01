@@ -1,6 +1,6 @@
 UPAD - Unified Action Dispatch Protocol
 
-SProtocol-ID: P.14.UPAD  
+Protocol-ID: P.14.UPAD  
 Filename: 14__UPAD.md  
 Status: CANONICAL  
 Class: Decision → Execution Request Boundary  
