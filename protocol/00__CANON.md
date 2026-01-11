@@ -1,9 +1,10 @@
 # CANON - The Presence Stack Constitutional Specification (1 0)
 
-Status: **FROZEN**  
-Mutation Rule: **EVOLVE ONLY**  
-Deletion: **FORBIDDEN**  
-Authority: **BOUND BY CANON**
+Protocol-ID: P.00.CANON  
+Filename: 00__CANON.md  
+Status: CANONICAL  
+Mutation: EVOLVE ONLY  
+Authority: BOUND BY CANON
 
 ---
 
