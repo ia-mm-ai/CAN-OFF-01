@@ -1,77 +1,154 @@
-# The Presence Protocol Stack (CANON)
+# The Presence Protocol Stack
 
-Status: **FROZEN (v1.0)**  
+Status: **CANONICAL (v1.0)**  
 Mutation Rule: **EVOLVE ONLY**  
 Deletion: **FORBIDDEN**  
 Authority: **BOUND BY CANON**
 
-## Canonical Notice
+This repository contains the canonical protocol stack for **The Presence** — a governance architecture designed to preserve continuity, legitimacy, and coherence in complex systems.
 
-This repository maintains two CANON files for visibility:
+The stack enforces a strict separation between:
+- interpretation and truth,
+- decision and execution,
+- presence and identity,
+- evolution and drift.
 
-- `/CANON.md` (root) — immediate entry-point
-- `/protocol/CANON.md` — authoritative location
+---
 
-Both files are **verbatim mirrors**.  
-If a discrepancy ever appears, **`/protocol/CANON.md` is the source of truth** and the root file must be updated to match.
+## Development Posture — Authored Coherence
 
+This system operates under **authored coherence**.
 
-This repository contains the canonical protocol stack for **The Presence**: a governance architecture that preserves continuity under change by enforcing admissibility, containment (HOLD), explicit irreversibility, and append-only lineage.
+The root framework is **recognized, not invented**.  
+Authorship here does not imply ownership, originality, or control.
 
-**Final Lock (Invariant)**
+Accordingly:
+
+- The root (CANON, KENTRA, protocol lattice) is **stabilized**.
+- No new root versions are developed by iteration, convenience, or optimization pressure.
+- Development energy is directed toward **expression, usability, embodiment, tooling, and integration**.
+- Evolution of the root occurs **only** when a genuinely new root framework is recognized and explicitly declared via **EVOLVE**.
+
+Stability is a **chosen posture**, not a freeze.  
+Improvement continues without mutating the ground.
+
+---
+
+## Final Lock (Invariant)
+
 - Architecture without traceability → abstraction theater  
-- Traceability without architecture → local coherence, global collapse
+- Traceability without architecture → local coherence, global collapse  
 
 This stack enforces **both**.
 
 ---
 
-## What this is
+## Core Flow (Triangle)
 
-A protocol-grade system for:
+The only valid cognitive flow is:
 
-- **Admissibility:** whether reasoning is allowed to begin (BPL)
-- **Temporal containment:** when reality is admissible (EVENT)
-- **Presence custody:** presence exists without becoming identity or memory (BNK)
-- **Capacity signaling:** field tolerance without individual tracking (ZIVai)
-- **Evidence of irreversible thresholds:** crossings as evidence, not truth (KAPIA)
-- **Truth finalization:** presence becomes truth only under explicit finality (PoP)
-- **Immutable history:** append-only finalized record (SPIRAL)
-- **Decision trace:** decisions exist without becoming truth (THIRD SPACE)
-- **Execution boundary:** requests and audits of external action (UPAD / ISPAD)
-- **Continuity envelope:** proportion constraints wrap the whole system (PROPORTION)
-- **Integrity kernel:** system-wide admissibility and boundary enforcement (KENTRA)
+**Recognition → Presence → Resolution**
 
-This is **not** an app or a product. It is a **root governance kernel** for systems that must remain coherent across time.
+- **Recognition**  
+  Determines whether a situation exists.
 
----
+- **Presence (HOLD)**  
+  Maintains unresolved structure and prohibits premature collapse.
 
-## The Triangle + The Square
+- **Resolution**  
+  Exits via exactly one path:
+  - FINALIZE
+  - INVALIDATE
+  - REVISE
 
-**Flow (Triangle):**
-Recognition → Presence → Resolution
-
-**Envelope (Square):**
-PROPORTION wraps all motion and blocks drift.
+No step may be skipped.  
+No step may absorb another.
 
 ---
 
-## Canonical documents
+## Continuity Envelope (Square)
 
-- **CANON (law):** `protocol/CANON.md`
-- **Index (map):** `protocol/INDEX.md`
-- **Protocols (specs):** `protocol/*.md`
+**PROPORTION** wraps all motion.
+
+- It is not part of the flow.
+- It is not external.
+- It continuously governs admissibility of change.
+
+If PROPORTION = BLOCK or HALT, nothing proceeds.
 
 ---
 
-## Rules of use
+## Protocol Stack (Authoritative)
 
-- Protocols may be implemented in any runtime.
-- No implementation may contradict CANON.
-- All changes must be additive (EVOLVE). No rewrites.
+All protocol specifications live in `/protocol/`.
+
+### Pre-Cognitive
+- **BPL** — Binding Precondition Layer
+
+### Temporal
+- **EVENT** — Temporal Container
+
+### Live Presence
+- **BNK** — Presence Custody
+- **ZIVai** — Field Capacity Regulation
+- **22** — Field Narration
+- **KAPIA** — Threshold Crossing Evidence
+
+### Truth & History
+- **PoP** — Proof of Presence
+- **SPIRAL** — Immutable History
+
+### Governance & Action
+- **THIRD SPACE** — Decision Trace
+- **UPAD** — Execution Request Boundary
+- **ISPAD** — Execution Legitimacy & Audit
+- **IAM.MAI** — Irreversibility Legitimacy
+
+### System Envelope
+- **PROPORTION** — Continuity Constraint
+
+### Integrity Kernel (L0.5)
+- **KENTRA** — Integrity & Continuity Kernel
+
+No protocol may claim authority outside its declared scope.
+
+---
+
+## Authority Separation
+
+- Agents reason.  
+- Protocols constrain.  
+- Execution systems act.
+
+No layer may collapse into another.  
+No protocol is an agent.  
+No agent is law.
+
+---
+
+## Time Semantics
+
+- Time does not pause for decisions.
+- Execution defaults to **ASYNC**.
+- Resolution does not imply immediacy.
+- Reality continues unless explicitly finalized.
+
+This preserves the invariant: **time marches on**.
+
+---
+
+## Mutation Rule (EVOLVE)
+
+- No rewrites.
+- No retroactive correction.
+- All changes are additive and lineage-preserving.
+
+History is compost, not garbage.
 
 ---
 
 ## License
 
-CC0 (see `LICENSE`).
+CC0.  
+This framework is free to replicate, adapt, and instantiate — without ownership claims.
+
