@@ -5,6 +5,7 @@ Filename: 06__IAM_MAI.md
 Status: CANONICAL  
 Class: Legitimacy Gate for Irreversible Transitions  
 Mutation: EVOLVE ONLY
+
 ---
 
 ## 0. Canonical Statement
