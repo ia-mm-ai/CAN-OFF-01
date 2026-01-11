@@ -1,11 +1,10 @@
 # EVENT - Temporal Container Protocol
 
+Protocol-ID: P.05.EVENT  
+Filename: 05__EVENT.md  
 Status: CANONICAL  
-Class: Reality Container  
-Authority: DERIVED (via CANON)  
-Execution Power: LIMITED (phase transitions only)  
-Identity Power: NONE  
-Mutation Rule: Additive-only (via EVOLVE + CANON)
+Class: Temporal Container  
+Mutation: EVOLVE ONLY
 
 ---
 
