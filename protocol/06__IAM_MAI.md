@@ -1,12 +1,10 @@
 # IAM.MAI - Irreversibility Legitimacy Protocol
 
+Protocol-ID: P.06.IAM_MAI  
+Filename: 06__IAM_MAI.md  
 Status: CANONICAL  
 Class: Legitimacy Gate for Irreversible Transitions  
-Authority: BOUND (via CANON)  
-Execution Power: YES (finalization only)  
-Identity Power: NONE  
-Mutation Rule: Additive-only (via EVOLVE + CANON)
-
+Mutation: EVOLVE ONLY
 ---
 
 ## 0. Canonical Statement
