@@ -1,11 +1,10 @@
 # SPIRAL - Immutable History Protocol
 
+Protocol-ID: P.12.SPIRAL  
+Filename: 12__SPIRAL.md  
 Status: CANONICAL  
 Class: Append-Only Memory & Lineage  
-Authority: DERIVED (via IAM.MAI)  
-Execution Power: NONE  
-Identity Power: NONE  
-Mutation Rule: Additive-only (via EVOLVE + CANON)
+Mutation: EVOLVE ONLY
 
 ---
 
