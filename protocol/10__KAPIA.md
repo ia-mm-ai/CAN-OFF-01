@@ -1,11 +1,10 @@
 # KAPIA - Threshold Crossing Protocol
 
+Protocol-ID: P.10.KAPIA  
+Filename: 10__KAPIA.md  
 Status: CANONICAL  
 Class: Irreversible Threshold Evidence  
-Authority: DERIVED (via EVENT + IAM.MAI)  
-Execution Power: LIMITED (crossing only)  
-Identity Power: NONE  
-Mutation Rule: Additive-only (via EVOLVE + CANON)
+Mutation: EVOLVE ONLY
 
 ---
 
