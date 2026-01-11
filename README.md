@@ -15,7 +15,7 @@ The stack enforces a strict separation between:
 
 ---
 
-## Development Posture — Authored Coherence
+## Development Posture - Authored Coherence
 
 This system operates under **authored coherence**.
 
