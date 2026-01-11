@@ -11,15 +11,15 @@ Mutation Rule: Additive-only (via EVOLVE + CANON)
 
 ## 0. Canonical Statement
 
-IAM.MAI governs **when an irreversible transition becomes legitimate**.
+IAM.MAI governs **when an irreversible transition is allowed to become final**.
 
 It exists to ensure that:
-- irreversible actions do not masquerade as intent,
-- decisions do not masquerade as truth,
-- and closure does not occur without authority.
+- irreversibility does not masquerade as intent,
+- closure does not occur silently or prematurely,
+- and reality is not retroactively legitimized.
 
 IAM.MAI does not create reality.  
-It legitimizes the moment reality becomes non-reversible.
+IAM.MAI legitimizes **irreversibility**.
 
 ---
 
@@ -30,12 +30,11 @@ IAM.MAI exists to answer one question only:
 **Is this transition allowed to become irreversible now?**
 
 It prevents:
-- premature closure,
 - silent finality,
+- premature closure,
 - authority leakage,
-- retroactive justification.
-
-Without IAM.MAI, the system cannot safely close anything.
+- narrative being mistaken for legitimacy,
+- and resolution being forced where only allowance is intended.
 
 ---
 
@@ -45,58 +44,131 @@ IAM.MAI applies **only** to transitions that are **irreversible by definition**.
 
 IAM.MAI does NOT apply to:
 - interpretation (BPL),
-- presence existence (BNK kernels),
-- capacity regulation (ZIVai),
+- live presence custody (BNK),
+- capacity signaling (ZIVai),
 - narration (22),
-- reasoning or discussion (THIRD SPACE).
+- reasoning or deliberation (THIRD SPACE),
+- reversible interaction flow (MOTION).
 
-IAM.MAI is invoked **only at the boundary between reversible and irreversible state**.
-
----
-
-## 3. Irreversible Transitions (Closed Set)
-
-IAM.MAI may be invoked **only** for the following transitions:
-
-- EVENT: `0 → ⊙` (EVENT-LIVE)
-- EVENT: `⊙ → 1` (EVENT-CLOSE)
-- PoP: `UNFINALIZED → FINALIZED`
-- SPIRAL: `WRITE` (append-only)
-- Any protocol explicitly marked as *irreversible* by CANON
-
-No other transitions are admissible.
+IAM.MAI is invoked **only at irreversibility boundaries**.
 
 ---
 
-## 4. Legitimacy Requirements (MANDATORY)
+## 3. Irreversible Transition Classes (Closed Set)
 
-An IAM.MAI invocation is **VALID** only if all are true:
+IAM.MAI may be invoked **only** for the following transition classes:
+
+### A. Temporal Irreversibility (EVENT)
+
+- **EVENT-LIVE**: `EVENT 0 → ⊙`
+- **EVENT-CLOSE**: `EVENT ⊙ → 1`
+
+These transitions govern **temporal admissibility of reality**.
+
+They do **not**:
+- resolve interaction,
+- decide outcomes,
+- create truth,
+- or imply motion finality.
+
+---
+
+### B. Truth Irreversibility
+
+- **PoP FINALIZE**: provisional → truth
+- **SPIRAL APPEND**: mutable → immutable history
+
+These transitions create **standing truth**.
+
+---
+
+### C. Execution Irreversibility
+
+- External actions whose effects cannot be undone
+- Actions explicitly marked irreversible by CANON
+
+Execution irreversibility is **never implied** and always requires explicit legitimacy.
+
+---
+
+No other transitions are valid.
+
+---
+
+## 4. Structural Clarification — EVENT vs MOTION
+
+IAM.MAI distinguishes **two orthogonal axes**:
+
+### EVENT (Temporal)
+- Governs **whether reality is admissible**
+- Controlled by EVENT-LIVE / EVENT-CLOSE
+- Irreversible
+- Legitimated by IAM.MAI
+
+### MOTION (Interaction)
+- Governs **how interaction proceeds**
+- States include: IDLE → RECOGNITION → HOLD → RESOLUTION
+- Reversible until explicitly finalized
+- **Not governed by IAM.MAI unless an irreversible outcome is requested**
+
+IAM.MAI **must not** collapse these axes.
+
+---
+
+## 5. Live-Hold Alignment (Canonical)
+
+When the system is in:
+EVENT = ⊙
+AND
+MOTION = HOLD
+the system is in **Live-Hold**.
+
+### IAM.MAI Semantics in Live-Hold
+
+- IAM.MAI **may be invoked** to legitimize:
+  - EVENT-LIVE (already occurred),
+  - EVENT-CLOSE (future),
+  - or other irreversible transitions.
+
+- IAM.MAI **must not** be used to:
+  - force MOTION resolution,
+  - collapse HOLD,
+  - imply decision,
+  - or convert presence into truth.
+
+Live-Hold is a **structural allowance**, not a pending failure.
+
+---
+
+## 6. Legitimacy Requirements (MANDATORY)
+
+An IAM.MAI invocation is **VALID** only if **all** are true:
 
 1. **Human Invocation**
    - A human role explicitly triggers the transition.
    - No automated self-finalization is allowed.
 
 2. **Authority Bound**
-   - The invoking role is authorized for this transition.
-   - Role authority is explicit and scoped.
+   - The invoking role is authorized for the specific transition.
+   - Authority is role-scoped, not identity-scoped.
 
 3. **Temporal Validity**
    - The transition occurs in a valid EVENT state.
-   - Example: PoP FINALIZE cannot occur before EVENT = 1.
+   - Example: PoP FINALIZE requires `EVENT = 1`.
 
 4. **Singularity**
    - The transition has not already occurred.
-   - No duplicate finalization is allowed.
+   - Duplicate finalization is forbidden.
 
 5. **Visibility**
-   - The transition is externally observable (loggable).
-   - Silent irreversibility is forbidden.
+   - The invocation is externally observable and loggable.
+   - Silent irreversibility is NON-COMPLIANT.
 
-Failure of any requirement renders the invocation **NON-COMPLIANT**.
+Failure of any requirement renders the invocation invalid.
 
 ---
 
-## 5. Effects of Legitimate Finalization
+## 7. Effects of Legitimate Finalization
 
 When IAM.MAI FINALIZE occurs:
 
@@ -109,50 +181,52 @@ IAM.MAI FINALIZE is itself **irreversible**.
 
 ---
 
-## 6. What IAM.MAI Does NOT Do
+## 8. What IAM.MAI Does NOT Do
 
 IAM.MAI does NOT:
 - decide what should happen,
 - evaluate correctness,
 - infer intent,
 - process identity,
-- generate truth content,
-- modify economic state,
-- narrate meaning.
+- generate narrative meaning,
+- regulate capacity,
+- resolve interaction by default.
 
-It only legitimizes finality.
+IAM.MAI legitimizes **finality**, not **direction**.
 
 ---
 
-## 7. Relationship to Other Protocols
+## 9. Relationship to Other Protocols
 
-- **BPL:** IAM.MAI assumes interpretation is already bound.
+- **CANON:** IAM.MAI authority is bounded and derived.
 - **EVENT:** IAM.MAI legitimizes EVENT-LIVE and EVENT-CLOSE.
-- **BNK:** IAM.MAI governs when kernel digests may become standing.
-- **ZIVai:** IAM.MAI ignores capacity state entirely.
+- **Live-Hold:** IAM.MAI respects Live-Hold and must not collapse it.
+- **BNK:** IAM.MAI governs only kernel-derived irreversibility, never kernel existence.
+- **ZIVai:** IAM.MAI ignores capacity signals entirely.
 - **22:** IAM.MAI is not narrated.
-- **PoP:** PoP truth is valid only after IAM.MAI FINALIZE.
-- **SPIRAL:** SPIRAL writes are legitimate only when IAM.MAI-gated.
+- **PoP:** PoP truth requires IAM.MAI FINALIZE.
+- **SPIRAL:** SPIRAL writes are valid only when IAM.MAI-legitimized.
 - **THIRD SPACE:** Decisions may reference IAM.MAI transitions but cannot trigger them.
 
 ---
 
-## 8. Failure Modes (EXPLICIT)
+## 10. Failure Modes (EXPLICIT)
 
 The following are **NON-COMPLIANT**:
 
-- automated finalization,
-- implicit closure via timeout,
+- using IAM.MAI to force decision,
+- collapsing EVENT-LIVE into motion resolution,
+- finalizing truth during EVENT ⊙,
+- automated or implicit finalization,
 - retroactive legitimization,
 - multiple finalizations of the same transition,
-- finalization without external trace,
-- finalization without human authority.
+- invoking IAM.MAI without visible trace.
 
 ---
 
-## 9. Canonical One-Line Definition
+## 11. Canonical One-Line Definition
 
-IAM.MAI is the protocol that decides when an irreversible transition is allowed to become final.
+**IAM.MAI is the protocol that decides when an irreversible transition is allowed to become final, without collapsing temporal allowance into decision or presence into truth.**
 
 ---
 
