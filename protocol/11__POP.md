@@ -1,11 +1,10 @@
 # PoP - Proof of Presence Protocol
 
+Protocol-ID: P.11.POP  
+Filename: 11__POP.md  
 Status: CANONICAL  
 Class: Truth Instantiation  
-Authority: DERIVED (via IAM.MAI)  
-Execution Power: LIMITED (finalization only)  
-Identity Power: NONE  
-Mutation Rule: Additive-only (via EVOLVE + CANON)
+Mutation: EVOLVE ONLY
 
 ---
 
