@@ -86,7 +86,7 @@ It is a **canonical composite state** arising from EVENT + MOTION.
 
 ## IV. Live Presence & Capacity
 
-### BNK - Bracelet–NFT–Kernel Protocol
+### BNK - Bracelet n-Kernel Protocol
 **Class:** Presence Custody (Event-Scoped)  
 **Role:** Hosts presence ephemerally during EVENT ⊙.
 
