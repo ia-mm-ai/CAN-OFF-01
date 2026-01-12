@@ -1,0 +1,73 @@
+{
+  "anchor_type": "CANONICAL_INTEGRITY_ANCHOR",
+  "stack_name": "The Presence Protocol Stack",
+  "version": "v1.0",
+  "status": "CANONICAL",
+  "mutation_rule": "EVOLVE_ONLY",
+  "deletion": "FORBIDDEN",
+  "authority": "BOUND_BY_CANON",
+  "license": "CC0-1.0",
+  "interaction": {
+    "mode": "NONE",
+    "accepts_input": false,
+    "accepts_prompts": false,
+    "accepts_governance_proposals": false,
+    "accepts_execution_requests": false,
+    "accepts_interpretive_feedback": false
+  },
+  "rail_order": [
+    "P.00.CANON",
+    "P.01.INDEX",
+    "P.02.BPL",
+    "P.03.KENTRA_KERNEL",
+    "P.04.PROPORTION",
+    "P.05.EVENT",
+    "P.06.IAM_MAI",
+    "P.07.BNK",
+    "P.08.ZIVAI",
+    "P.09.RADIO_22",
+    "P.10.KAPIA",
+    "P.11.POP",
+    "P.12.SPIRAL",
+    "P.13.THIRD_SPACE",
+    "P.14.UPAD",
+    "P.15.ISPAD"
+  ],
+  "protocols": [
+  { "protocol_id": "P.00.CANON", "filename": "protocol/00__CANON.md", "domain": "CONSTITUTIONAL_BINDING" },
+  { "protocol_id": "P.01.INDEX", "filename": "protocol/01__INDEX.md", "domain": "TRAVERSAL_INDEX" },
+
+  { "protocol_id": "P.02.BPL", "filename": "protocol/02__BPL.md", "domain": "INTERPRETIVE_ADMISSIBILITY" },
+  { "protocol_id": "P.03.KENTRA_KERNEL", "filename": "protocol/03__KENTRA_KERNEL.md", "domain": "INTEGRITY_KERNEL" },
+  { "protocol_id": "P.04.PROPORTION", "filename": "protocol/04__PROPORTION.md", "domain": "CONTINUITY_ENVELOPE" },
+
+  { "protocol_id": "P.05.EVENT", "filename": "protocol/05__EVENT.md", "domain": "TEMPORAL_CONTAINER" },
+  { "protocol_id": "P.06.IAM_MAI", "filename": "protocol/06__IAM_MAI.md", "domain": "IRREVERSIBILITY_LEGITIMACY" },
+
+  { "protocol_id": "P.07.BNK", "filename": "protocol/07__BNK.md", "domain": "LIVE_PRESENCE_CUSTODY" },
+  { "protocol_id": "P.08.ZIVAI", "filename": "protocol/08__ZIVAI.md", "domain": "FIELD_CAPACITY_REGULATION" },
+  { "protocol_id": "P.09.RADIO_22", "filename": "protocol/09__22.md", "domain": "FIELD_NARRATION" },
+
+  { "protocol_id": "P.10.KAPIA", "filename": "protocol/10__KAPIA.md", "domain": "THRESHOLD_EVIDENCE" },
+  { "protocol_id": "P.11.POP", "filename": "protocol/11__POP.md", "domain": "PRESENCE_TRUTH" },
+  { "protocol_id": "P.12.SPIRAL", "filename": "protocol/12__SPIRAL.md", "domain": "IMMUTABLE_HISTORY" },
+
+  { "protocol_id": "P.13.THIRD_SPACE", "filename": "protocol/13__THIRD_SPACE.md", "domain": "DECISION_TRACE" },
+  { "protocol_id": "P.14.UPAD", "filename": "protocol/14__UPAD.md", "domain": "EXECUTION_REQUEST_BOUNDARY" },
+  { "protocol_id": "P.15.ISPAD", "filename": "protocol/15__ISPAD.md", "domain": "EXECUTION_LEGITIMACY_AUDIT" }
+],
+  "canonical_reference": {
+    "type": "REPOSITORY",
+    "role": "SOLE_CANONICAL_REFERENCE",
+    "mirrors_allowed": true,
+    "forks_allowed": true,
+    "canon_moves": false
+  },
+  "constraints": {
+    "rail_order_is_authoritative": true,
+    "protocol_id_namespace_is_closed": true,
+    "protocols_must_not_be_skipped": true,
+    "protocols_must_not_be_reordered": true,
+    "protocols_must_not_absorb_each_other": true
+  }
+}
