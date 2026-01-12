@@ -34,139 +34,28 @@
     "P.15.ISPAD"
   ],
   "protocols": [
-    {
-      "protocol_id": "P.00.CANON",
-      "filename": "00__CANON.md",
-      "domain": "CONSTITUTIONAL_BINDING"
-    },
-    {
-      "protocol_id": "P.01.INDEX",
-      "filename": "01__INDEX.md",
-      "domain": "TRAVERSAL_INDEX"
-    },
-    {
-      "protocol_id": "P.02.BPL",
-      "filename": "02__BPL.md",
-      "domain": "INTERPRETIVE_ADMISSIBILITY"
-    },
-    {
-      "protocol_id": "P.03.KENTRA_KERNEL",
-      "filename": "03__KENTRA_KERNEL.md",
-      "domain": "INTEGRITY_KERNEL"
-    },
-    {
-      "protocol_id": "P.04.PROPORTION",
-      "filename": "04__PROPORTION.md",
-      "domain": "CONTINUITY_ENVELOPE"
-    },
-    {
-      "protocol_id": "P.05.EVENT",
-      "filename": "05__EVENT.md",
-      "domain": "TEMPORAL_CONTAINER"
-    },
-    {
-      "protocol_id": "P.06.IAM_MAI",
-      "filename": "06__IAM_MAI.md",
-      "domain": "IRREVERSIBILITY_LEGITIMACY"
-    },
-    {
-      "protocol_id": "P.07.BNK",
-      "filename": "07__BNK.md",
-      "domain": "LIVE_PRESENCE_CUSTODY"
-    },
-    {
-      "protocol_id": "P.08.ZIVAI",
-      "filename": "08__ZIVAI.md",
-      "domain": "FIELD_CAPACITY_REGULATION"
-    },
-    {
-      "protocol_id": "P.09.RADIO_22",
-      "filename": "09__RADIO_22.md",
-      "domain": "FIELD_NARRATION"
-    },
-    {
-      "protocol_id": "P.10.KAPIA",
-      "filename": "10__KAPIA.md",
-      "domain": "THRESHOLD_EVIDENCE"
-    },
-    {
-      "protocol_id": "P.11.POP",
-      "filename": "11__POP.md",
-      "domain": "PRESENCE_TRUTH"
-    },
-    {
-      "protocol_id": "P.12.SPIRAL",
-      "filename": "12__SPIRAL.md",
-      "domain": "IMMUTABLE_HISTORY"
-    },
-    {
-      "protocol_id": "P.13.THIRD_SPACE",
-      "filename": "13__THIRD_SPACE.md",
-      "domain": "DECISION_TRACE"
-    },
-    {
-      "protocol_id": "P.14.UPAD",
-      "filename": "14__UPAD.md",
-      "domain": "EXECUTION_REQUEST_BOUNDARY"
-    },
-    {
-      "protocol_id": "P.15.ISPAD",
-      "filename": "15__ISPAD.md",
-      "domain": "EXECUTION_LEGITIMACY_AUDIT"
-    }
-  ],
-  "machine_core_guarantees": [
-    {
-      "id": "G.01",
-      "statement": "NO_REASONING_WITHOUT_ADMISSIBILITY",
-      "bound_to": ["P.02.BPL"]
-    },
-    {
-      "id": "G.02",
-      "statement": "NO_MOTION_WITHOUT_CONTINUITY",
-      "bound_to": ["P.04.PROPORTION"]
-    },
-    {
-      "id": "G.03",
-      "statement": "NO_TIME_COLLAPSE",
-      "bound_to": ["P.05.EVENT"]
-    },
-    {
-      "id": "G.04",
-      "statement": "NO_IRREVERSIBILITY_WITHOUT_LEGITIMACY",
-      "bound_to": ["P.06.IAM_MAI"]
-    },
-    {
-      "id": "G.05",
-      "statement": "NO_PRESENCE_AS_IDENTITY",
-      "bound_to": ["P.07.BNK"]
-    },
-    {
-      "id": "G.06",
-      "statement": "NO_CAPACITY_AS_AUTHORITY",
-      "bound_to": ["P.08.ZIVAI"]
-    },
-    {
-      "id": "G.07",
-      "statement": "NO_EVIDENCE_AS_TRUTH",
-      "bound_to": ["P.10.KAPIA"]
-    },
-    {
-      "id": "G.08",
-      "statement": "NO_TRUTH_WITHOUT_FINALIZATION",
-      "bound_to": ["P.11.POP", "P.12.SPIRAL"]
-    },
-    {
-      "id": "G.09",
-      "statement": "NO_DECISION_AS_FACT",
-      "bound_to": ["P.13.THIRD_SPACE"]
-    },
-    {
-      "id": "G.10",
-      "statement": "NO_EXECUTION_WITHOUT_AUDIT",
-      "bound_to": ["P.14.UPAD", "P.15.ISPAD"]
-    }
-  ],
+  { "protocol_id": "P.00.CANON", "filename": "protocol/00__CANON.md", "domain": "CONSTITUTIONAL_BINDING" },
+  { "protocol_id": "P.01.INDEX", "filename": "protocol/01__INDEX.md", "domain": "TRAVERSAL_INDEX" },
+
+  { "protocol_id": "P.02.BPL", "filename": "protocol/02__BPL.md", "domain": "INTERPRETIVE_ADMISSIBILITY" },
+  { "protocol_id": "P.03.KENTRA_KERNEL", "filename": "protocol/03__KENTRA_KERNEL.md", "domain": "INTEGRITY_KERNEL" },
+  { "protocol_id": "P.04.PROPORTION", "filename": "protocol/04__PROPORTION.md", "domain": "CONTINUITY_ENVELOPE" },
+
+  { "protocol_id": "P.05.EVENT", "filename": "protocol/05__EVENT.md", "domain": "TEMPORAL_CONTAINER" },
+  { "protocol_id": "P.06.IAM_MAI", "filename": "protocol/06__IAM_MAI.md", "domain": "IRREVERSIBILITY_LEGITIMACY" },
+
+  { "protocol_id": "P.07.BNK", "filename": "protocol/07__BNK.md", "domain": "LIVE_PRESENCE_CUSTODY" },
+  { "protocol_id": "P.08.ZIVAI", "filename": "protocol/08__ZIVAI.md", "domain": "FIELD_CAPACITY_REGULATION" },
+  { "protocol_id": "P.09.RADIO_22", "filename": "protocol/09__22.md", "domain": "FIELD_NARRATION" },
+
+  { "protocol_id": "P.10.KAPIA", "filename": "protocol/10__KAPIA.md", "domain": "THRESHOLD_EVIDENCE" },
+  { "protocol_id": "P.11.POP", "filename": "protocol/11__POP.md", "domain": "PRESENCE_TRUTH" },
+  { "protocol_id": "P.12.SPIRAL", "filename": "protocol/12__SPIRAL.md", "domain": "IMMUTABLE_HISTORY" },
+
+  { "protocol_id": "P.13.THIRD_SPACE", "filename": "protocol/13__THIRD_SPACE.md", "domain": "DECISION_TRACE" },
+  { "protocol_id": "P.14.UPAD", "filename": "protocol/14__UPAD.md", "domain": "EXECUTION_REQUEST_BOUNDARY" },
+  { "protocol_id": "P.15.ISPAD", "filename": "protocol/15__ISPAD.md", "domain": "EXECUTION_LEGITIMACY_AUDIT" }
+],
   "canonical_reference": {
     "type": "REPOSITORY",
     "role": "SOLE_CANONICAL_REFERENCE",
