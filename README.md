@@ -15,6 +15,44 @@ The stack enforces a strict separation between:
 
 ---
 
+## What You Can Do With This Repository
+
+This is a **reference specification repository**. You can:
+
+1. **Read and Study** — Review the protocol specifications to understand The Presence architecture
+2. **Reference** — Cite these protocols as authoritative specifications in implementations
+3. **Implement** — Build systems that comply with these protocol specifications
+4. **Fork** — Create derived specifications (forks allowed per ANCHOR.json)
+5. **Mirror** — Host canonical copies (mirrors allowed per ANCHOR.json)
+6. **Integrate** — Use these protocols as the constitutional foundation for governance systems
+7. **Learn** — Study the architecture as a framework for complex system governance
+
+### What This Repository Is NOT
+
+- **NOT executable code** — No scripts, no programs, no runtime
+- **NOT interactive** — Does not accept input, prompts, or governance proposals (see ANCHOR.json)
+- **NOT a tool** — This is a specification, not an implementation
+- **NOT mutable** — Frozen protocols under EVOLVE ONLY mutation rule
+- **NOT owned** — CC0 license, free to use without ownership claims
+
+### How to Use
+
+1. **Start with** `README.md` (this file) for overview
+2. **Read** `CANON.md` for constitutional rules
+3. **Navigate via** `protocol/01__INDEX.md` for protocol glossary
+4. **Study protocols** in `/protocol/` directory in rail order (see ANCHOR.json)
+5. **Reference** `ANCHOR.json` for structural metadata and constraints
+
+### Implementation Notes
+
+If you're building a system based on these protocols:
+- Protocols define **constraints**, not implementations
+- Authority separation MUST be preserved (see CANON Section V)
+- No protocol may be skipped or reordered (see ANCHOR.json constraints)
+- All mutations must follow EVOLVE rule (additive, lineage-preserving)
+
+---
+
 ## Development Posture - Authored Coherence
 
 This system operates under **authored coherence**.
