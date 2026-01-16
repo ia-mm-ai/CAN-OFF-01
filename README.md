@@ -183,6 +183,7 @@ This preserves the invariant: **time marches on**.
 
 History is compost, not garbage.
 
+Observed truth and instances live at: https://third.site
 ---
 
 ## License
